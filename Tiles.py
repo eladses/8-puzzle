@@ -7,6 +7,7 @@ from src.algorithms.IDDFS import iddfs
 from src.algorithms.GBFS import gbfs
 from src.algorithms.A_star import a_star
 
+IDDFS_ITERATIONS = 12
 
 def main():
     if len(sys.argv) != 10:
@@ -19,7 +20,7 @@ def main():
     print(game)
     bfs(game)
     print()
-    iddfs(game, 12)
+    iddfs(game, IDDFS_ITERATIONS)
     print()
     gbfs(game)
     print()
