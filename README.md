@@ -1,5 +1,5 @@
 # 8-puzzle
- Different algorithms to solve 8-puzzle
+ Different algorithms to solve 8-puzzle (BFS, IDDFS, GBFS, A*)
 
 
 **To run execute:**\
