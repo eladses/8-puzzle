@@ -11,5 +11,5 @@
 "python3 src/Puzzle.py a b c d e f g h i" where a-i are 0-8 (0 is the free spot).\
 or "python3 src/Puzzle.py" to generate a game.
 * python3 Tiles.py 1 4 2 6 3 8 0 5 7
-* python3 Tiles.py/
+* python3 Tiles.py\
 play with entering the number to move
